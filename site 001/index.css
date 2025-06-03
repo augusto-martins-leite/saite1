@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Dives+Akuru&display=swap');
+
+body{
+    background-color: #ddb606;
+    color:rgb(230, 233, 233);
+    position: relative;
+}
+#titulo{
+ color:black;
+ font-family: "Noto Serif Dives Akuru", serif;
+ margin-top: 70px;
+ text-align: center;
+ font-size: 50px;
+}
