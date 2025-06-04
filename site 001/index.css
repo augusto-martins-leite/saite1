@@ -12,6 +12,13 @@ body{
  text-align: center;
  font-size: 50px;
 }
+#sub-titulo{
+ color:black;
+ font-family: "Noto Serif Dives Akuru", serif;
+ margin-top: 10px;
+ text-align: center;
+ font-size: 30px;
+}
 #testo{
  color:rgb(236, 232, 232);
  font-family: "Noto Serif Dives Akuru", serif;
